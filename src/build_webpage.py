@@ -172,7 +172,7 @@ HTML = """<!DOCTYPE html>
   </div>
 </div>
 
-<footer>Source : Telco Customer Churn (IBM) · Modèle Gradient Boosting + SMOTE · Page générée automatiquement depuis le pipeline Python.</footer>
+<footer>Source de données : Telco Customer Churn (IBM) · Data Analyste / Analyse BI — Cheikh Sall · <a href="mailto:sall1969@outlook.fr" style="color:inherit">sall1969@outlook.fr</a> · Tél. 77 245 62 22</footer>
 
 <script>
 const DATA = __DATA__;
