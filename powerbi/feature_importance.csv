@@ -1,0 +1,57 @@
+Variable,Importance
+IsMonthToMonth,0.19775182745873932
+OnlineSecurity_No,0.10038959222963738
+Contract_Month-to-month,0.09740542801514628
+TechSupport_No,0.07813481257371334
+tenure,0.06581899719406949
+InternetService_Fiber optic,0.05558134404451885
+TenureGroup_0-12,0.03489006984895108
+PaperlessBilling_Yes,0.03189896531335718
+OnlineBackup_No,0.026419907556035693
+Contract_Two year,0.02628306626242992
+Dependents_Yes,0.021478770951355083
+PaperlessBilling_No,0.019960521683720294
+Dependents_No,0.01718453755847808
+MonthlyCharges,0.014655458874373199
+MultipleLines_No,0.014259070235672171
+IsElectronicCheck,0.013913185374502413
+PaymentMethod_Bank transfer (automatic),0.01354714291877431
+OnlineSecurity_Yes,0.013414737804149398
+Partner_No,0.012533462231812512
+OnlineBackup_Yes,0.012037514196594481
+MultipleLines_Yes,0.010420442488787726
+TotalCharges,0.008622700979917448
+PaymentMethod_Credit card (automatic),0.008515656727632907
+TechSupport_Yes,0.00842942279932865
+Partner_Yes,0.008230188742484225
+gender_Male,0.007713161973892507
+SeniorCitizen_No,0.0076210761365398645
+TenureGroup_25-48,0.007071680984327679
+SeniorCitizen_Yes,0.0070113042264573575
+StreamingMovies_No,0.0066129251588645625
+DeviceProtection_No,0.006411449914527687
+TenureGroup_60+,0.005804333275700697
+StreamingMovies_Yes,0.0054416709696823926
+PaymentMethod_Mailed check,0.004883928496959064
+DeviceProtection_Yes,0.004514069027937559
+StreamingTV_Yes,0.004424700634803362
+PaymentMethod_Electronic check,0.004287956860810319
+StreamingTV_No,0.004242464362097831
+AvgChargesPerMonth,0.00407523552971214
+gender_Female,0.0036343354183344524
+TenureGroup_13-24,0.0020079414545499104
+InternetService_DSL,0.0014078058317112641
+TenureGroup_49-60,0.0005587273141634338
+Contract_One year,0.0002759462855303438
+NumServices,0.00022246207921632245
+IsNewCustomer,0.0
+MultipleLines_No phone service,0.0
+PhoneService_No,0.0
+PhoneService_Yes,0.0
+DeviceProtection_No internet service,0.0
+StreamingMovies_No internet service,0.0
+InternetService_No,0.0
+StreamingTV_No internet service,0.0
+OnlineSecurity_No internet service,0.0
+TechSupport_No internet service,0.0
+OnlineBackup_No internet service,0.0

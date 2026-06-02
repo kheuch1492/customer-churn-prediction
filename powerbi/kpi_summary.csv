@@ -1,0 +1,7 @@
+KPI,Valeur
+Nombre total de clients,7043.0
+Taux de churn,0.2654
+Taux de fidélisation,0.7346
+Clients à risque élevé,1662.0
+Revenu annuel à risque ($),1514524.2
+ROC-AUC du modèle,0.8438

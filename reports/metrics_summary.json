@@ -1,0 +1,62 @@
+{
+  "best_model": "Gradient Boosting",
+  "best_params": {
+    "clf__learning_rate": 0.05,
+    "clf__max_depth": 2,
+    "clf__n_estimators": 300
+  },
+  "n_customers": 7043,
+  "churn_rate": 0.2653698707936959,
+  "retention_rate": 0.7346301292063041,
+  "n_high_risk": 1662,
+  "revenue_at_risk_annual": 1514524.2000000002,
+  "metrics_test": {
+    "accuracy": 0.7743080198722498,
+    "precision": 0.5611353711790393,
+    "recall": 0.6871657754010695,
+    "f1": 0.6177884615384616,
+    "roc_auc": 0.8437882662946601
+  },
+  "top_features": [
+    {
+      "Variable": "IsMonthToMonth",
+      "Importance": 0.19775182745873932
+    },
+    {
+      "Variable": "OnlineSecurity_No",
+      "Importance": 0.10038959222963738
+    },
+    {
+      "Variable": "Contract_Month-to-month",
+      "Importance": 0.09740542801514628
+    },
+    {
+      "Variable": "TechSupport_No",
+      "Importance": 0.07813481257371334
+    },
+    {
+      "Variable": "tenure",
+      "Importance": 0.06581899719406949
+    },
+    {
+      "Variable": "InternetService_Fiber optic",
+      "Importance": 0.05558134404451885
+    },
+    {
+      "Variable": "TenureGroup_0-12",
+      "Importance": 0.03489006984895108
+    },
+    {
+      "Variable": "PaperlessBilling_Yes",
+      "Importance": 0.03189896531335718
+    },
+    {
+      "Variable": "OnlineBackup_No",
+      "Importance": 0.026419907556035693
+    },
+    {
+      "Variable": "Contract_Two year",
+      "Importance": 0.02628306626242992
+    }
+  ]
+}
