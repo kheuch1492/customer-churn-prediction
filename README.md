@@ -7,6 +7,8 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.1-green)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 
+🔗 **[Voir le dashboard interactif en ligne →](https://kheuch1492.github.io/customer-churn-prediction/)**
+
 ---
 
 ## 🎯 Objectif
