@@ -153,4 +153,4 @@ python -m http.server 8077 --directory docs
 
 ---
 
-*Projet réalisé dans le cadre d'un portfolio Data Analyst / BI Developer / Junior Data Scientist.*
+*Projet réalisé dans le cadre d'un portfolio Data Analyst / BI Developer / Cheikh sall email: sall1969@outlook.fr tel 772456222
