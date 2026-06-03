@@ -53,10 +53,13 @@ customer-churn-prediction/
 ├── models/
 │   └── best_churn_model.pkl # Modèle entraîné (pipeline sklearn complet)
 ├── powerbi/
+│   ├── churn_dashboard.pbix        # Dashboard Power BI finalisé (3 pages)
 │   ├── churn_scored_customers.csv  # Clients + probabilité + segment de risque
 │   ├── kpi_summary.csv             # KPI globaux
 │   ├── model_comparison.csv        # Comparaison des modèles
 │   ├── feature_importance.csv      # Importance des variables
+│   ├── bg_branded_1920x1080.png    # Arrière-plan dashboard (page KPI)
+│   ├── bg_subtle_1920x1080.png     # Arrière-plan dashboard (pages graphiques)
 │   └── GUIDE_POWERBI.md            # Guide de construction du dashboard
 ├── reports/
 │   ├── figures/             # Toutes les visualisations (PNG)
@@ -145,7 +148,7 @@ python -m http.server 8077 --directory docs
 - ✅ Modèle ML sauvegardé ([`models/best_churn_model.pkl`](models/best_churn_model.pkl))
 - ✅ Données scorées pour Power BI ([`powerbi/`](powerbi/))
 - ✅ Rapport PDF de synthèse ([`reports/churn_report.pdf`](reports/churn_report.pdf))
-- ✅ Dashboard Power BI — guide de construction dans [`powerbi/GUIDE_POWERBI.md`](powerbi/GUIDE_POWERBI.md)
+- ✅ Dashboard Power BI interactif ([`powerbi/churn_dashboard.pbix`](powerbi/churn_dashboard.pbix)) — 3 pages (KPI, analyse du churn, modèle & clients prioritaires) avec segments synchronisés ; guide dans [`powerbi/GUIDE_POWERBI.md`](powerbi/GUIDE_POWERBI.md)
 
 ## 📚 Source de données
 
